@@ -1,14 +1,12 @@
 # How to contribute
 
-Rocks is developed and maintained primarily by [Jason Bock](https://github.com/JasonBock), though [others](https://github.com/JasonBock/Rocks/graphs/contributors) have contributed. New contributions are always welcome!
+This repository is developed and maintained primarily by [Jason Bock](https://github.com/JasonBock). New contributions are always welcome!
 
 ## Getting started
 
-* Review the [Code of Conduct](https://github.com/JasonBock/Rocks/blob/main/CODE_OF_CONDUCT.md)
+* Review the [Code of Conduct](https://github.com/JasonBock/TestDoublesAndMocks/blob/main/CODE_OF_CONDUCT.md)
 * Make sure you have a [GitHub account](https://github.com/signup/free)
-* Engage
-  * Bring up your idea in the [Discord server](https://discord.com/channels/1035376645864955974) and talk it through there
-  * Submit an [Issue](https://github.com/JasonBock/Rocks/issues) for your suggestion, assuming one does not already exist
+* Submit an [Issue](https://github.com/JasonBock/TestDoublesAndMocks/issues) for your suggestion, assuming one does not already exist
 
 ## Making Changes
 
